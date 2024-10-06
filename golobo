@@ -1,0 +1,11 @@
+<section id="servizi">
+    <h2>I nostri servizi</h2>
+    <p>Ci specializziamo in:</p>
+    <ul style="list-style-type:none;">
+        <li>✔️ Intermediazione e vendita di prodotti pirotecnici</li>
+        <img src="path_to_image/A_realistic_image_of_fireworks_and_pyrotechnic_pro.png" alt="Prodotti Pirotecnici" style="width:300px;">
+        <li>✔️ Facilitazione nel settore petrolifero</li>
+        <img src="path_to_image/A_realistic_image_of_an_oil_barrel_standing_uprigh.png" alt="Barile di Petrolio" style="width:300px;">
+        <li>✔️ Trading di materie prime minerali</li>
+    </ul>
+</section>
